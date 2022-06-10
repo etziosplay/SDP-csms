@@ -1,0 +1,5 @@
+
+Customer Name  = jkj
+Age = 2031616
+Address  = u
+Phone number = 5 
